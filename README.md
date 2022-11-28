@@ -1,8 +1,6 @@
 <h2 align=center>Hello there</h2>
 <p align=center>My name is João Pedro and I'm front-end developer</p>
 
-<p align=center>Lengages that I use</p>
-
 <div align=center>
 <img align="center" alt="Rafa-Js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Rafa-HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
