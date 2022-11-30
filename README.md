@@ -1,5 +1,5 @@
 <h1 align=center>Hello there</h1>
-<p align=center>My name is João Pedro and I'm front-end developer</p>
+<p align=center>My name is João Pedro, I'm front-end developer</p>
 
 <div align=center>
 <img align="center" alt="Rafa-Js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
